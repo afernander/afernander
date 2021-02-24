@@ -2,11 +2,11 @@
 
 
 
-![Anurag's GitHub stats]()
+
 
 <img align="left" alt="afernander GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=afernander&show_icons=true&theme=tokyonight&include_all_commits=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afernander&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afernander&langs_count=8)
 
 
 - 📫 How to reach me: afernander@eafit.edu.co or alejoferna2301@gmail.com
