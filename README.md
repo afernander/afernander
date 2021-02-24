@@ -1,5 +1,4 @@
-### Hi there 👋
-# Hello!, Welcome to my Profile :computer:
+# Hi there 👋, Welcome to my Profile :computer: 
 
 <img align="left" alt="afernander GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=afernander&show_icons=true&hide_border=true%22/%3E">
 
