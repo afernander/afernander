@@ -1,4 +1,4 @@
-# Hi there 👋, Welcome to my Profile :computer: 
+# Hi  👋, Welcome to my Profile :computer: 
 
 
 
