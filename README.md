@@ -4,7 +4,7 @@
 
 
 
-<img align="left" alt="afernander GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=afernander&show_icons=true&theme=tokyonight&include_all_commits=true">
+<img align="left" alt="afernander GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=afernander&show_icons=false&theme=tokyonight&include_all_commits=true">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afernander&langs_count=8&show_icons=true&theme=tokyonight&layout=compact)
 
